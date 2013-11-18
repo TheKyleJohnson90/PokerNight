@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PokerNight</string>
+    <string name="dummy_content"></string>
+    <string name="deal">Deal</string>
+    <string name="remainingcardcount">Remaining Card Count:</string>
+    <string name="whichcoin">Which Coin</string>
+    <string name="howmany">How Many</string>
+    <string name="yourbet">Your Bet:</string>
+    <string name="reward">Reward:</string>
+    <string name="payout">Payout:</string>
+	<string name="yourbank">Your Bank:</string>
+	
+</resources>
